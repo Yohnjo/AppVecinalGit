@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115171792594",
+    "firebase_url": "https://appvecinal.firebaseio.com",
+    "project_id": "appvecinal",
+    "storage_bucket": "appvecinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115171792594:android:18a36f47dc56737e62bf0b",
+        "android_client_info": {
+          "package_name": "com.example.appvecinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115171792594-098qo6j1buaiqtfin65mdisfh9q20h23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appvecinal",
+            "certificate_hash": "f1d9db90b44bcfa334c8e0e543fe5031987a3d1e"
+          }
+        },
+        {
+          "client_id": "115171792594-3hhb4qmtu1lpfdrubd1kch6gdp3dap1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOaZTGDFaajRDsx12W3-H_jZLRCDCZVds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115171792594-3hhb4qmtu1lpfdrubd1kch6gdp3dap1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
